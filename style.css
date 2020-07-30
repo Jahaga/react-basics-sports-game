@@ -1,0 +1,17 @@
+.logo img {
+    width: 15%;
+    height: auto;
+}
+
+.Team {
+    flex-direction: column;
+    align-items: center;
+}
+
+.Stats .Team {
+    align-items: center;
+}
+
+.App {
+    display: flex;
+}
